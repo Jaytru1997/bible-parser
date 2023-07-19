@@ -1,0 +1,16 @@
+{
+  "name": "bible-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node parser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
